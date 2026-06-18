@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+artifacts/
+*.parquet
+*.pkl
+*.npy
+*.bin
+*.csv
+*.pdf
+*.log
